@@ -71,6 +71,7 @@
     <Content Include="DataFile.txt" />
     <Content Include="Index.aspx" />
     <Content Include="index.css" />
+    <None Include="README.md" />
     <Content Include="title_logo.png" />
     <Content Include="Web.config" />
   </ItemGroup>
